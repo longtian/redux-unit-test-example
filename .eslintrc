@@ -1,0 +1,6 @@
+{
+  "parser": "eslint",
+  "ecmaFeatures": {
+      "modules": true
+  }
+}
