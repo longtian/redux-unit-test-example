@@ -4,7 +4,8 @@
   "description": "learning",
   "main": "index.js",
   "scripts": {
-    "test": "babel-node node_modules/.bin/_mocha"
+    "test": "babel-node node_modules/.bin/_mocha",
+    "eslint": "eslint test"
   },
   "author": "wyvernnot",
   "license": "MIT",

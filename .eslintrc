@@ -1,10 +1,14 @@
 {
-  "parser": "eslint",
-  "ecmaFeatures": {
-    "modules": true
-  },
+  "parser": "babel-eslint",
+  "root": true,
   "env": {
     "mocha": true,
     "node": true
+  },
+  "parser-options": {
+    "ecmaVersion": "6",
+    "ecmaFeatures": {
+      "modules": true
+    }
   }
 }
