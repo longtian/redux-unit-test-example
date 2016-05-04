@@ -1,13 +1,13 @@
 {
-  "name": "untitled",
-  "version": "1.0.0",
-  "description": "",
+  "name": "redux-unit-test-example",
+  "version": "0.0.0",
+  "description": "learning",
   "main": "index.js",
   "scripts": {
     "test": "babel-node node_modules/.bin/_mocha"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "wyvernnot",
+  "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.8.0",
     "babel-eslint": "^6.0.4",

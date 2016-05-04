@@ -1,4 +1,5 @@
 # redux-unit-test-example
+[![](https://img.shields.io/travis/wyvernnot/redux-unit-test-example.svg)](https://travis-ci.org/wyvernnot/redux-unit-test-example)
 
 redux 里有一些好玩的东西，如果与 React 一起学习各种环境搭起来速度比较慢，也比较麻烦。如果使用单元测试来学习，
 并且阅读源代码，可以更快地搞懂。
