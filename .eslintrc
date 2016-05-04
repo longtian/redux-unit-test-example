@@ -1,6 +1,10 @@
 {
   "parser": "eslint",
   "ecmaFeatures": {
-      "modules": true
+    "modules": true
+  },
+  "env": {
+    "mocha": true,
+    "node": true
   }
 }
